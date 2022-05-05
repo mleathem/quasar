@@ -5,6 +5,7 @@
 
     <q-btn href="start/pick-quasar-flavour" label="With href" push color="purple" />
     <q-btn href="start/pick-quasar-flavour" target="_blank" label="With href - open in new window" color="purple" />
+    <q-btn href="https://cdn.quasar.dev/logo-v2/header.png" target="_blank" download="quasar_header.png" label="download link (+ rename file)" color="purple" >
   </div>
 </template>
 
